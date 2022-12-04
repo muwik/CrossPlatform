@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "iv-lab3/1.0.0": {
+        "runtime": {
+          "iv-lab3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iv-lab3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

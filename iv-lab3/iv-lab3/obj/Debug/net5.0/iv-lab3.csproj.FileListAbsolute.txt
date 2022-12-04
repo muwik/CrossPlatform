@@ -1,0 +1,16 @@
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\iv-lab3.csproj.AssemblyReference.cache
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\iv-lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\iv-lab3.AssemblyInfoInputs.cache
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\iv-lab3.AssemblyInfo.cs
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\iv-lab3.csproj.CoreCompileInputs.cache
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\bin\Debug\net5.0\iv-lab3.exe
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\bin\Debug\net5.0\iv-lab3.deps.json
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\bin\Debug\net5.0\iv-lab3.runtimeconfig.json
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\bin\Debug\net5.0\iv-lab3.runtimeconfig.dev.json
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\bin\Debug\net5.0\iv-lab3.dll
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\bin\Debug\net5.0\iv-lab3.pdb
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\iv-lab3.dll
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\refint\iv-lab3.dll
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\iv-lab3.pdb
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\iv-lab3.genruntimeconfig.cache
+D:\University\4course\CrossPlatform\iv-lab3\iv-lab3\obj\Debug\net5.0\ref\iv-lab3.dll
