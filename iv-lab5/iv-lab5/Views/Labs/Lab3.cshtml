@@ -1,0 +1,66 @@
+﻿@model Lab3DataModel
+
+@{
+	ViewData["Title"] = "Third one";
+}
+
+<h1>@ViewData["Title"]</h1>
+<text> &nbsp; &nbsp; &nbsp;</text>
+<h2>You need to output one number - the desired number of builders</h2>
+
+<text> &nbsp; &nbsp; &nbsp;</text>
+
+<form method="post" enctype="multipart/form-data" asp-controller="Labs" asp-action="Lab3">
+	<div class="form-group">
+		<label for="psize">First line</label>
+		<input type="text" class="form-control" id="line" asp-for="FirstInputLine">
+	</div>
+	<div class="form-group">
+		<label for="pdata">Second line</label>
+		<input type="text" class="form-control" id="line" asp-for="SecondInputLine">
+	</div>
+	<div class="form-group">
+		<label for="pdata">Third line</label>
+		<input type="text" class="form-control" id="line" asp-for="ThirdInputLine">
+	</div>
+	<div class="form-group">
+		<label for="pdata">Fourth line</label>
+		<input type="text" class="form-control" id="line" asp-for="FourthInputLine">
+	</div>
+	<div class="form-group">
+		<label for="pdata">Fifth line</label>
+		<input type="text" class="form-control" id="line" asp-for="FifthInputLine">
+	</div>
+	<div class="form-group">
+		<label for="pdata">Sixth line</label>
+		<input type="text" class="form-control" id="line" asp-for="SixthInputLine">
+	</div>
+	<div class="form-group">
+		<label for="pdata">Seventh line</label>
+		<input type="text" class="form-control" id="line" asp-for="SeventhInputLine">
+	</div>
+	<div class="form-group">
+		<label for="pdata">Eighth line</label>
+		<input type="text" class="form-control" id="line" asp-for="EighthInputLine">
+	</div>
+	<button type="submit" class="btn btn-primary mt-3">Submit</button>
+</form>
+
+<text> &nbsp; &nbsp; &nbsp;</text>
+<text> &nbsp; &nbsp; &nbsp;</text>
+
+@if (Model != null)
+{
+	<div class="container mt5">
+		<div class="form-group">
+			<h2 class="control-label">Lab3 output: @(Model != null ? Model.Calculated : string.Empty)</h2>
+		</div>
+		@if (Model != null && !string.IsNullOrEmpty(Model.ErrorValue))
+		{
+			<div class="row">
+				<label for="perror"></label>
+				<input type="text" id="perror" value="@Model.ErrorValue">
+			</div>
+		}
+	</div>
+}
